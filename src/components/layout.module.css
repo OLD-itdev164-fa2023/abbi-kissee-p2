@@ -1,0 +1,23 @@
+.container {
+    margin: auto;
+    max-width: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading {
+    color: rgb(58, 93, 56);
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav-link-item {
+    padding-right: 2rem;
+}
+
+.nav-link-text {
+    color: black;
+}
